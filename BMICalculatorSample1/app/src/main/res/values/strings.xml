@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BMI-Calculator-Sample1</string>
+    <string name="normal_range_values">(Normal range is 18.5 - 24.9)</string>
+    <string name="calculate_button_text">CALCULATE</string>
+    <string name="tv_height_name">Height</string>
+    <string name="tv_cm_value">Cm</string>
+    <string name="height_hint_value">0.0</string>
+    <string name="tv_kg_value">Kg</string>
+    <string name="hint_weight_value">0.0</string>
+    <string name="tv_weight_value">Weight</string>
 </resources>
